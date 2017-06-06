@@ -16,7 +16,7 @@ This project also uses [Libft][1].
 	git clone --recursive https://github.com/Alexandritikus/alcu
 	cd alcu
 	make
-	* ./alum1 maps/*.txt - set map from file
-	* or ./alum1 - set map from keyboard
+	./alum1 maps/*.txt - set map from file
+	or ./alum1 - set map from keyboard.
 
 [1]: https://github.com/Alexandritikus/libft
